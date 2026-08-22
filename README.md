@@ -23,7 +23,8 @@ A Ripple Carry Adder is one of the most fundamental building blocks in digital a
 
 | File | Description |
 |---|---|
-| `ripple_carry_adder.v` | Design file containing Full Adder + 4-bit RCA modules |
+| `full_adder.v`| Design file containing Full Adder|
+| `ripple_carry_adder.v` | Design file containing  4-bit RCA modules |
 | `testbench.v` | Testbench to simulate and verify the design |
 | `waveform.png` | Simulation waveform output |
 
